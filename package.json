@@ -1,0 +1,34 @@
+{
+  "name": "lr-upload-file",
+  "version": "0.1.0",
+  "description": "a client to publish file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lanrenqifu/lr-upload-file.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lanrenqifu/lr-upload-file/issues"
+  },
+  "homepage": "https://github.com/lanrenqifu/lr-upload-file",
+  "author": {
+    "name": "lanren"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "blueimp-md5": "^1.1.0",
+    "chalk": "^1.0.0",
+    "lr-util-debug": "^0.1.0",
+    "lr-util-file": "^0.1.0",
+    "lodash": "^3.8.0",
+    "lokijs": "^1.2.5",
+    "lr-util-web": "^0.1.0",
+    "q": "^1.4.1",
+    "qs": "^3.1.0",
+    "request": "^2.55.0",
+    "formstream": "^1.0.0"
+  }
+}
